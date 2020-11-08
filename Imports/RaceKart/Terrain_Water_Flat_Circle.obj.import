@@ -1,0 +1,19 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/Terrain_Water_Flat_Circle.obj-b8d4a8cd326094a8beaace2c1816818c.mesh"
+
+[deps]
+
+files=[ "res://.import/Terrain_Water_Flat_Circle.obj-b8d4a8cd326094a8beaace2c1816818c.mesh" ]
+
+source_file="res://Imports/RaceKart/Terrain_Water_Flat_Circle.obj"
+dest_files=[ "res://.import/Terrain_Water_Flat_Circle.obj-b8d4a8cd326094a8beaace2c1816818c.mesh", "res://.import/Terrain_Water_Flat_Circle.obj-b8d4a8cd326094a8beaace2c1816818c.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+optimize_mesh=true

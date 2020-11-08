@@ -1,0 +1,31 @@
+[gd_scene load_steps=4 format=2]
+
+[ext_resource path="res://Assets/MeshLibrary.tres" type="MeshLibrary" id=1]
+
+[sub_resource type="PlaneMesh" id=1]
+size = Vector2( 50, 50 )
+
+[sub_resource type="ConcavePolygonShape" id=2]
+data = PoolVector3Array( 25, 0, 25, -25, 0, 25, 25, 0, -25, -25, 0, 25, -25, 0, -25, 25, 0, -25 )
+
+[node name="Spatial" type="Spatial"]
+
+[node name="StaticBody" type="StaticBody" parent="."]
+
+[node name="MeshInstance" type="MeshInstance" parent="StaticBody"]
+mesh = SubResource( 1 )
+material/0 = null
+
+[node name="CollisionShape" type="CollisionShape" parent="StaticBody"]
+shape = SubResource( 2 )
+
+[node name="GridMap" type="GridMap" parent="."]
+mesh_library = ExtResource( 1 )
+cell_size = Vector3( 1, 1, 1 )
+data = {
+"cells": PoolIntArray( 65524, 2, 1073741839, 65525, 2, 1074397189, 65548, 2, 1075183633, 131057, 2, 4, 65548, 3, 1075183633, 12, 6, 1075183631, 12, 7, 1074790408, 65531, 9, 1073741829, 65532, 9, 1074397201, 65533, 9, 655377, 65534, 9, 1074397202, 1, 10, -1609957360, 2, 10, 1074397200, 3, 10, -1609957360, 4, 10, 1074397200, 5, 10, 1074397200, 8, 10, 1073741833, 65530, 65533, 1073741839, 65531, 65533, 1073741841, 65532, 65533, 655378, 131058, 65533, 1074397199, 131063, 65533, 1073741839, 0, 65534, 1074397196, 3, 65534, 1073741842, 4, 65534, -1609957359, 5, 65534, 1074397201, 6, 65534, 1074397199, 65535, 65534, 1074397200, 65545, 65534, 1074397189, 131055, 65535, 1075183620 )
+}
+__meta__ = {
+"_editor_clip_": 0,
+"_editor_floor_": Vector3( 0, 0, 0 )
+}

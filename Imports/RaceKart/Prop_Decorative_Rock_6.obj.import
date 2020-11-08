@@ -1,0 +1,19 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/Prop_Decorative_Rock_6.obj-9752a44877e6664f0abc0d35e322ce65.mesh"
+
+[deps]
+
+files=[ "res://.import/Prop_Decorative_Rock_6.obj-9752a44877e6664f0abc0d35e322ce65.mesh" ]
+
+source_file="res://Imports/RaceKart/Prop_Decorative_Rock_6.obj"
+dest_files=[ "res://.import/Prop_Decorative_Rock_6.obj-9752a44877e6664f0abc0d35e322ce65.mesh", "res://.import/Prop_Decorative_Rock_6.obj-9752a44877e6664f0abc0d35e322ce65.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+optimize_mesh=true

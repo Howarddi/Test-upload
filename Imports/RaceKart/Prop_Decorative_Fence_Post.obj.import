@@ -1,0 +1,19 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/Prop_Decorative_Fence_Post.obj-ca12c45772222dd61d4663f3f049659c.mesh"
+
+[deps]
+
+files=[ "res://.import/Prop_Decorative_Fence_Post.obj-ca12c45772222dd61d4663f3f049659c.mesh" ]
+
+source_file="res://Imports/RaceKart/Prop_Decorative_Fence_Post.obj"
+dest_files=[ "res://.import/Prop_Decorative_Fence_Post.obj-ca12c45772222dd61d4663f3f049659c.mesh", "res://.import/Prop_Decorative_Fence_Post.obj-ca12c45772222dd61d4663f3f049659c.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+optimize_mesh=true

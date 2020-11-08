@@ -1,0 +1,19 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/Track_Bridge_Start_Collider.obj-c5753d4bc3b9b1d9cf49abc8ca152d6c.mesh"
+
+[deps]
+
+files=[ "res://.import/Track_Bridge_Start_Collider.obj-c5753d4bc3b9b1d9cf49abc8ca152d6c.mesh" ]
+
+source_file="res://Imports/RaceKart/Track_Bridge_Start_Collider.obj"
+dest_files=[ "res://.import/Track_Bridge_Start_Collider.obj-c5753d4bc3b9b1d9cf49abc8ca152d6c.mesh", "res://.import/Track_Bridge_Start_Collider.obj-c5753d4bc3b9b1d9cf49abc8ca152d6c.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+optimize_mesh=true

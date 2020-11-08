@@ -1,0 +1,19 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/Prop_Track_Sign_On_Curve_Blank.obj-c40145f4f76ae3d50e60bc2efd65fefc.mesh"
+
+[deps]
+
+files=[ "res://.import/Prop_Track_Sign_On_Curve_Blank.obj-c40145f4f76ae3d50e60bc2efd65fefc.mesh" ]
+
+source_file="res://Imports/RaceKart/Prop_Track_Sign_On_Curve_Blank.obj"
+dest_files=[ "res://.import/Prop_Track_Sign_On_Curve_Blank.obj-c40145f4f76ae3d50e60bc2efd65fefc.mesh", "res://.import/Prop_Track_Sign_On_Curve_Blank.obj-c40145f4f76ae3d50e60bc2efd65fefc.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+optimize_mesh=true

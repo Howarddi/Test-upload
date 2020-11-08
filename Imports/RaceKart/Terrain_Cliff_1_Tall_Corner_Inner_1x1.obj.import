@@ -1,0 +1,19 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/Terrain_Cliff_1_Tall_Corner_Inner_1x1.obj-3b92fd41e18c3d8080fc886359f59baa.mesh"
+
+[deps]
+
+files=[ "res://.import/Terrain_Cliff_1_Tall_Corner_Inner_1x1.obj-3b92fd41e18c3d8080fc886359f59baa.mesh" ]
+
+source_file="res://Imports/RaceKart/Terrain_Cliff_1_Tall_Corner_Inner_1x1.obj"
+dest_files=[ "res://.import/Terrain_Cliff_1_Tall_Corner_Inner_1x1.obj-3b92fd41e18c3d8080fc886359f59baa.mesh", "res://.import/Terrain_Cliff_1_Tall_Corner_Inner_1x1.obj-3b92fd41e18c3d8080fc886359f59baa.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+optimize_mesh=true

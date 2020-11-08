@@ -1,0 +1,19 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/Prop_Decorative_Tree_Elm_6.obj-92c91b05e2298921c635a1283059dd2a.mesh"
+
+[deps]
+
+files=[ "res://.import/Prop_Decorative_Tree_Elm_6.obj-92c91b05e2298921c635a1283059dd2a.mesh" ]
+
+source_file="res://Imports/RaceKart/Prop_Decorative_Tree_Elm_6.obj"
+dest_files=[ "res://.import/Prop_Decorative_Tree_Elm_6.obj-92c91b05e2298921c635a1283059dd2a.mesh", "res://.import/Prop_Decorative_Tree_Elm_6.obj-92c91b05e2298921c635a1283059dd2a.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+optimize_mesh=true

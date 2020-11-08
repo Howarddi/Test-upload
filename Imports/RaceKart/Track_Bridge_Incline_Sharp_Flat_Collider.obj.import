@@ -1,0 +1,19 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/Track_Bridge_Incline_Sharp_Flat_Collider.obj-8fc262fb9d78e3ee558e06003b99c67b.mesh"
+
+[deps]
+
+files=[ "res://.import/Track_Bridge_Incline_Sharp_Flat_Collider.obj-8fc262fb9d78e3ee558e06003b99c67b.mesh" ]
+
+source_file="res://Imports/RaceKart/Track_Bridge_Incline_Sharp_Flat_Collider.obj"
+dest_files=[ "res://.import/Track_Bridge_Incline_Sharp_Flat_Collider.obj-8fc262fb9d78e3ee558e06003b99c67b.mesh", "res://.import/Track_Bridge_Incline_Sharp_Flat_Collider.obj-8fc262fb9d78e3ee558e06003b99c67b.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+optimize_mesh=true

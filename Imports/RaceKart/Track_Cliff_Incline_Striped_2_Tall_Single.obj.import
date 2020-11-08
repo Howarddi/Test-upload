@@ -1,0 +1,19 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/Track_Cliff_Incline_Striped_2_Tall_Single.obj-345f16e1c23ca2dcc2d298e43cad0f58.mesh"
+
+[deps]
+
+files=[ "res://.import/Track_Cliff_Incline_Striped_2_Tall_Single.obj-345f16e1c23ca2dcc2d298e43cad0f58.mesh" ]
+
+source_file="res://Imports/RaceKart/Track_Cliff_Incline_Striped_2_Tall_Single.obj"
+dest_files=[ "res://.import/Track_Cliff_Incline_Striped_2_Tall_Single.obj-345f16e1c23ca2dcc2d298e43cad0f58.mesh", "res://.import/Track_Cliff_Incline_Striped_2_Tall_Single.obj-345f16e1c23ca2dcc2d298e43cad0f58.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+optimize_mesh=true

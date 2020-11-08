@@ -1,0 +1,19 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/Track_Cliff_Edge_Standard_2_Tall_Single.obj-5b6b98a4472d1dc3f0dda6ccfee877ae.mesh"
+
+[deps]
+
+files=[ "res://.import/Track_Cliff_Edge_Standard_2_Tall_Single.obj-5b6b98a4472d1dc3f0dda6ccfee877ae.mesh" ]
+
+source_file="res://Imports/RaceKart/Track_Cliff_Edge_Standard_2_Tall_Single.obj"
+dest_files=[ "res://.import/Track_Cliff_Edge_Standard_2_Tall_Single.obj-5b6b98a4472d1dc3f0dda6ccfee877ae.mesh", "res://.import/Track_Cliff_Edge_Standard_2_Tall_Single.obj-5b6b98a4472d1dc3f0dda6ccfee877ae.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+optimize_mesh=true

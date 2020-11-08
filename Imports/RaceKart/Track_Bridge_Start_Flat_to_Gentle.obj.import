@@ -1,0 +1,19 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/Track_Bridge_Start_Flat_to_Gentle.obj-cf27a2f0776d0bd9a78406cb3a20cebb.mesh"
+
+[deps]
+
+files=[ "res://.import/Track_Bridge_Start_Flat_to_Gentle.obj-cf27a2f0776d0bd9a78406cb3a20cebb.mesh" ]
+
+source_file="res://Imports/RaceKart/Track_Bridge_Start_Flat_to_Gentle.obj"
+dest_files=[ "res://.import/Track_Bridge_Start_Flat_to_Gentle.obj-cf27a2f0776d0bd9a78406cb3a20cebb.mesh", "res://.import/Track_Bridge_Start_Flat_to_Gentle.obj-cf27a2f0776d0bd9a78406cb3a20cebb.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+optimize_mesh=true

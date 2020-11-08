@@ -1,0 +1,19 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/Track_Striped_Curve_Widening_4x5.obj-82f4e76cf86e689c2b112c797dd1b315.mesh"
+
+[deps]
+
+files=[ "res://.import/Track_Striped_Curve_Widening_4x5.obj-82f4e76cf86e689c2b112c797dd1b315.mesh" ]
+
+source_file="res://Imports/RaceKart/Track_Striped_Curve_Widening_4x5.obj"
+dest_files=[ "res://.import/Track_Striped_Curve_Widening_4x5.obj-82f4e76cf86e689c2b112c797dd1b315.mesh", "res://.import/Track_Striped_Curve_Widening_4x5.obj-82f4e76cf86e689c2b112c797dd1b315.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+optimize_mesh=true

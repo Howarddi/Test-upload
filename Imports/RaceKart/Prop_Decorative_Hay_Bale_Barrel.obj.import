@@ -1,0 +1,19 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/Prop_Decorative_Hay_Bale_Barrel.obj-3d7d621fa225e1346c4835f2f0a9737a.mesh"
+
+[deps]
+
+files=[ "res://.import/Prop_Decorative_Hay_Bale_Barrel.obj-3d7d621fa225e1346c4835f2f0a9737a.mesh" ]
+
+source_file="res://Imports/RaceKart/Prop_Decorative_Hay_Bale_Barrel.obj"
+dest_files=[ "res://.import/Prop_Decorative_Hay_Bale_Barrel.obj-3d7d621fa225e1346c4835f2f0a9737a.mesh", "res://.import/Prop_Decorative_Hay_Bale_Barrel.obj-3d7d621fa225e1346c4835f2f0a9737a.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+optimize_mesh=true

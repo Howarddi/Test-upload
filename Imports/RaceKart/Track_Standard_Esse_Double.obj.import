@@ -1,0 +1,19 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/Track_Standard_Esse_Double.obj-74c118f7e7654f8e8533e0febf58f90f.mesh"
+
+[deps]
+
+files=[ "res://.import/Track_Standard_Esse_Double.obj-74c118f7e7654f8e8533e0febf58f90f.mesh" ]
+
+source_file="res://Imports/RaceKart/Track_Standard_Esse_Double.obj"
+dest_files=[ "res://.import/Track_Standard_Esse_Double.obj-74c118f7e7654f8e8533e0febf58f90f.mesh", "res://.import/Track_Standard_Esse_Double.obj-74c118f7e7654f8e8533e0febf58f90f.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+optimize_mesh=true

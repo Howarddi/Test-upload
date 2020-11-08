@@ -1,0 +1,19 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/Prop_Decorative_Fence_Curve_2x2.obj-5e1abb995d2d0d8910ac10c9c4bd7088.mesh"
+
+[deps]
+
+files=[ "res://.import/Prop_Decorative_Fence_Curve_2x2.obj-5e1abb995d2d0d8910ac10c9c4bd7088.mesh" ]
+
+source_file="res://Imports/RaceKart/Prop_Decorative_Fence_Curve_2x2.obj"
+dest_files=[ "res://.import/Prop_Decorative_Fence_Curve_2x2.obj-5e1abb995d2d0d8910ac10c9c4bd7088.mesh", "res://.import/Prop_Decorative_Fence_Curve_2x2.obj-5e1abb995d2d0d8910ac10c9c4bd7088.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+optimize_mesh=true

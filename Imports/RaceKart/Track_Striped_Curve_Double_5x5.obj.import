@@ -1,0 +1,19 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/Track_Striped_Curve_Double_5x5.obj-fd1c5a831a7d2b96adc75b2e0b308858.mesh"
+
+[deps]
+
+files=[ "res://.import/Track_Striped_Curve_Double_5x5.obj-fd1c5a831a7d2b96adc75b2e0b308858.mesh" ]
+
+source_file="res://Imports/RaceKart/Track_Striped_Curve_Double_5x5.obj"
+dest_files=[ "res://.import/Track_Striped_Curve_Double_5x5.obj-fd1c5a831a7d2b96adc75b2e0b308858.mesh", "res://.import/Track_Striped_Curve_Double_5x5.obj-fd1c5a831a7d2b96adc75b2e0b308858.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+optimize_mesh=true
