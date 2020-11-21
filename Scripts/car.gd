@@ -2,8 +2,10 @@ extends KinematicBody
 
 #Declare member variables here
 export var gravity = Vector3.DOWN * 50
-export var speed = 100
+export var speed = 65
 export var rot_speed = 3.5
+
+signal coinCollected
 
 var velocity = Vector3.ZERO
 
@@ -24,3 +26,8 @@ func get_input(delta):
 	if Input.is_action_pressed("left"):
 		rotate_y(rot_speed * delta)
 	velocity.y = vy
+
+
+func _on_coin_coinCollected():
+	print("coin collected")
+	speed += 5
